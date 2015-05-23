@@ -1,1 +1,7 @@
-chapter1.txt
+Sample.txt
+scrum_history.txt
+scrum_framework.txt
+scrum_role.txt
+scrum_meeting.txt
+scrum_foundation_artifact.txt
+estimation_in_scrum.txt
